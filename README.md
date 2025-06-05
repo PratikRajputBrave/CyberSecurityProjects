@@ -1,4 +1,4 @@
-<!-- Password Strength Checker Component -->
+# 🔍 Password strength Checker
 <section class="password-checker" aria-labelledby="pw-checker-title">
   <h2 id="pw-checker-title">Password Strength Checker</h2>
 
@@ -30,3 +30,35 @@
     <li id="rule-special" class="invalid">At least 1 special character (!@#$%^&*)</li>
   </ul>
 </section>
+
+----------------------------------------------------------------------------------------------
+
+# 🔍 Web Vulnerability Scanner (Basic)
+
+A beginner-friendly Python tool to scan websites for common security issues:
+
+- ✅ Open Ports (80, 443, 8080)
+- 🛡️ Missing HTTP Security Headers
+- 💉 Basic XSS Injection Testing (Reflected)
+
+> ⚠️ For **educational purposes only**. Do not scan sites you don’t own or have permission to test.
+
+---
+
+## 📦 Features
+
+- Written in pure Python
+- CLI-based, interactive target entry
+- Clear output of scan results
+- Modular code for future expansion
+
+---
+
+## 🛠 Requirements
+
+- Python 3.x
+- Libraries:
+  - `requests`
+  
+
+
